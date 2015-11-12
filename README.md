@@ -21,8 +21,7 @@ General Information about JavaScript, NodeJs and related information
 - [Express.js FUNdamentals: An Essential Overview of Express.js](http://webapplog.com/express-js-fundamentals/) 
 
 ## General
-- [webapplog: programming weblog - Software engineering, Node.js, JavaScript and startups.](http://webapplog.com/) 
-- 
+- [webapplog: programming weblog - Software engineering, Node.js, JavaScript and startups.](http://webapplog.com/)
 
 ## Sails.js
 - [Sails.js Tutorial](http://code.tutsplus.com/tutorials/introduction-to-sailsjs--net-35390)
