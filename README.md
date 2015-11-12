@@ -25,5 +25,5 @@ General Information about JavaScript, NodeJs and related information
 - 
 
 ## Sails.js
-- http://code.tutsplus.com/tutorials/introduction-to-sailsjs--net-35390
-- 
+- [Sails.js Tutorial](http://code.tutsplus.com/tutorials/introduction-to-sailsjs--net-35390)
+- [Sails.js and Node](https://courses.platzi.com/classes/develop-apps-sails-js/)
